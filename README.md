@@ -23,20 +23,21 @@ Functional Requirements
 -	Add, modify, and delete books.
 -	Manage user records, including adding, updating, and deleting.
 -	Sort all books and users.
--	Manage book borrowing and return policies.
+-	Manage book borrowing and returning policies.
 2.	Member Features: 
--	Sort and look for books by author, title, book ID or stock availability
+-	Sort and look for books by author, title, book_id or stock availability.
 -	Borrow and return books.
 -	Update or modify profile data.
 3.	System Features: 
 -	Role-based authentication for admin and members.
 -	Data persistence using CSV files to store books, users, and borrowing records
 -	Organize books according to qualities such title, stock, etc.
+
   
 Non-Functional Requirements
-1.	Scalability: The system should manage a lot of users and books without compromising speed.
-2.	Efficiency: Operations of sorting and searching have to be effective.
+1.	Scalability: The system should handle a lot of users and books without compromising performance.
+2.	Efficiency: Sorting and searching must be optimized for effectiveness.
 3.	Usability: The terminal-based interface of the system must be straightforward and easy to use.
-4.	Security: Role-based access control meant to stop illegal activity.
-5.	Reliability: Data has to be kept constantly and stay available even after systems restarts.
-6.	Maintainability: Maintaining simplicity and scalability, the system should be built in modules to facilitate changes.
+4.	Security: Role-based access control is implemented to prevent unauthorized activities.
+5.	Reliability: Data should remain consistent and accessible even after systems restarts.
+6.	Maintainability: Maintaining simplicity and scalability, the system should be built in modules to facilitate future updates and changes.

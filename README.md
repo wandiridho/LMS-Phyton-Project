@@ -1,11 +1,10 @@
-Library Management System - Test Credentials
+**Library Management System **
 
 Use the following credentials to access the system as either an Admin or a Member.
 
 - Admin Login
    User ID: U001
    Password: 123
-
 
 - Member Login
     User ID: U002

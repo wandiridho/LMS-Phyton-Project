@@ -1,4 +1,4 @@
-**Library Management System **
+LIBRARY MANAGEMENT SYSTEM
 
 Use the following credentials to access the system as either an Admin or a Member.
 
